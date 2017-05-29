@@ -1,6 +1,6 @@
 # How to use
 
-Simply edit the list of PDB codes to your needs in the ```pdbfile```.
+Simply edit the list of PDB codes to your needs in the ```pdblist``` file.
 
 Then run the script:
 
